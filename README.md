@@ -227,4 +227,4 @@ Jitsi Meet is available as a full free version with all features and updates inc
 Start your communication journey with Jitsi Meet today! Download now and enjoy the full features for free.
 
 ---
-**Last updated:** 2026-09-18 18:01:10 UTC
+**Last updated:** 2026-09-18 21:23:41 UTC
